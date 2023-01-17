@@ -1,0 +1,11 @@
+img{
+    height: 200px;
+    width: auto;
+}
+.title{
+    background-color:#9c6644 ;
+}
+#header{
+    color: #f9a620;
+    font-weight: bold;
+}
